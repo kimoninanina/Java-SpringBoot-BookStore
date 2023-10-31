@@ -23,10 +23,10 @@ public class Book {
     private String description;
 
     @Column(name = "copies")
-    private int copies;
+    private Integer copies;
 
     @Column(name = "copies_available")
-    private int copiesAvailable;
+    private Integer copiesAvailable;
 
     @Column(name = "category")
     private String category;
