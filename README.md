@@ -8,20 +8,13 @@ Retrieve data from Spring Boot REST APIs
 
 
 # Spring Boot
-    Developed a Full stack project with React and Spring Boot
-    
-    Leveraged the Hibernate API to connect with MySQL
-    
-    Developed REST APIs with Spring Data REST
-    
-    Developed custom queries using the Spring Data JPA   
-    
-    Accelerated the development process with Spring Data REST
-    
-    Applied pagination and sorting to REST API endpoints
-    
-    Secured the Spring Boot REST API using OIDC and JWT
-
+- [ ]     Developed a Full stack project with React and Spring Boot
+- [ ]     Leveraged the Hibernate API to connect with MySQL
+- [ ]     Developed REST APIs with Spring Data REST
+- [ ]     Developed custom queries using the Spring Data JPA    
+- [ ]     Accelerated the development process with Spring Data REST
+- [ ]     Applied pagination and sorting to REST API endpoints
+- [ ]     Secured the Spring Boot REST API using OIDC and JWT
 
 在Spring Boot中编写API可以通过创建RESTful服务来实现
 1.Controller类来处理。创建一个新的Controller类，使用@RestController注解标记它，这表明这个类将处理HTTP请求并返回JSON或XML响应。
