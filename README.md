@@ -7,7 +7,7 @@ Retrieve data from Spring Boot REST APIs
 
 
 
-Spring Boot
+# Spring Boot
     Developed a Full stack project with React and Spring Boot
     Leveraged the Hibernate API to connect with MySQL
     Developed REST APIs with Spring Data REST
